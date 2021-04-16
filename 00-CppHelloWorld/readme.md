@@ -9,3 +9,7 @@
 -Apellidos: Cabello Vergara
 
 -Nombre: Maria de los Angeles
+
+- IDE : Dev C++
+
+-Compilador: ISO C++11
