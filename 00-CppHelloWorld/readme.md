@@ -10,6 +10,6 @@
 
 -Nombre: Maria de los Angeles
 
-- IDE : Dev C++
+-IDE : Dev C++
 
 -Compilador: ISO C++11
