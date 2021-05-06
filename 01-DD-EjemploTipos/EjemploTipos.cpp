@@ -1,5 +1,6 @@
 #include<iostream>
 #include<cassert>
+unsig namesapce std;
 int main () {
 
 assert(true==true) ; // bool
