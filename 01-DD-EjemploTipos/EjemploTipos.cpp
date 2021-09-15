@@ -23,7 +23,7 @@
 	assert(6 < 3 == false);
 	assert(0 < 1 == true);
 	assert(50 > 30 == true);
-    assert(true == not false);
+        assert(true == not false);
 	assert(not false == true);
 	
 	
@@ -35,7 +35,7 @@
 	assert('c' != 'D');
 	assert('E' != 'e');
 	assert('D'-'A' == 3); 
-    assert('a' < 'b');   
+        assert('a' < 'b');   
 	assert('D' < 'E');                     //--> Char
 	assert('Z' > 'Y');
 	assert('g' > 'f'); 
